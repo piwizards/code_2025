@@ -1,2 +1,2 @@
 # code_2025
-Storing code
+This repsository I have created while learning Git. I was learning Git on 18 April, 2025.
